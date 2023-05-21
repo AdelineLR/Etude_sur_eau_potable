@@ -29,9 +29,9 @@ Pour ce projet, l'outil de data visualisation utilisé est Tableau Software. Le 
 ## Fichiers
 * LeRay_Adeline_1_Blueprint_022023.pdf : Blueprint du tableau de bord
 * LeRay_Adeline_2_Mockup_022023.pdf : Mockup du tableau de bord
-* LeRay_Adeline_3_Présentation_022023.pdf : Présentation du contexte, du pré-traitement des données
+* LeRay_Adeline_3_Présentation_022023.pdf : Présentation du contexte, du pré-traitement des données et de la démarche de création du tableau de bord
 * P8_Create_Table.sql : Script MySQL pour la création des tables, le chargement et le pré-traitement des données
-* P8_Country.sql : Script MySQL pour la création d'une liste exhaustive des pays pour les jointures (UNION DISTINCT) 
+* P8_Table_Country.sql : Script MySQL pour la création d'une liste exhaustive des pays pour les jointures (UNION DISTINCT) 
 * P8_Jointure.sql : Script MySQL pour les jointures des tables
 * P8_Eau_potable.twbx : Tableaux de bord et Histoire sous Tableau
 
