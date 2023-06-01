@@ -1,6 +1,6 @@
 # Réaliser une étude sur l'eau potable et publier un tableau de bord
  
- _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°8 - Févr. 2023)_
  
 ## Compétences acquises
 * Générer des graphiques adaptés aux types de données
